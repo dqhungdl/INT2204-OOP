@@ -1,2 +1,2 @@
 # INT2204-OOP
-Assignments of course UET-INT2204 - Object Oriented Programming.
+Assignments of course INT2204 - Object Oriented Programming.
